@@ -1,6 +1,6 @@
-Collection of binary dependencies of [ViZDoom](https://github.com/Marqt/ViZDoom) Windows version.
+Collection of optional binary dependencies of [ViZDoom](https://github.com/Marqt/ViZDoom) Windows version.
 
 - fmod
-- OpenAL
+- OpenAL-Soft
 - libsndfile 
 - libmpg123
